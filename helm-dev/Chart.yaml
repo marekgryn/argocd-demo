@@ -1,0 +1,7 @@
+apiVersion: v2
+name: demo-helm
+version: 0.1.0
+dependencies:
+  - name: demo-helm
+    version: 0.1.0
+    repository: https://github.com/marekgryn/helm-charts/tree/master/demo

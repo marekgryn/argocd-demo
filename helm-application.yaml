@@ -12,7 +12,7 @@ spec:
     path: helm-dev
   destination:
     server: https://kubernetes.default.svc
-    namespace: helm-demo-app2
+    namespace: helm-test-demo-app
 
   syncPolicy:
     syncOptions:

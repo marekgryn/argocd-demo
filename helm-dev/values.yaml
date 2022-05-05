@@ -1,3 +1,5 @@
-replicaCount: 2
-image:
-  tag: "1.26"
+---
+demo:
+  replicaCount: 2
+  image:
+    tag: "1.26"
